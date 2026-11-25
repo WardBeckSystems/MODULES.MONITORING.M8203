@@ -55,7 +55,7 @@ WARD-BECK SYSTEMS INC FIRST BY DESIGN 945 Middlefield Road Toronto, Ontario Cana
 
 ```json
 {
- "file": "Modules/MONITORING/M8203/PHOTOS/2015 - M8203 - Information Sheet (8200 Series).jpg",
+ "file": "Modules/MONITORING/M8203/MANUALS/2015 - M8203 - Information Sheet (8200 Series).jpg",
  "sha256": "c72c46b0e215fbaef3773dc71cb93bb0dabebe826c50d03d406077fdf5ccc1d3",
  "kind": "module",
  "models": [
