@@ -1,5 +1,5 @@
 # 2015 - M8203 - Oscillator Module 001.jpg
-Wiki page: [M8203](../../../PAGES/M8203.md)
+Wiki page: [M8203](../../../../PAGES/M8203.md)
 
 
 - **Year:** 2015 (module estimate (month))
@@ -47,7 +47,7 @@ WBS WARD-BECK SYSTEMS
 
 ```json
 {
- "file": "Modules/MONITORING/M8203/2015 - M8203 - Oscillator Module 001.jpg",
+ "file": "Modules/MONITORING/M8203/PHOTOS/2015 - M8203 - Oscillator Module 001.jpg",
  "sha256": "adfa91877f45e8332d6a1f6d990373749aa7d6a5e0045924205d9e874f9e8c75",
  "kind": "module",
  "models": [

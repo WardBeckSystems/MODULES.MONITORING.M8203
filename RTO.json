@@ -1,0 +1,61 @@
+{
+ "code": "M8203",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "15 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "13",
+   "signal": "± 20 VOLT DC SUPPLY BUS VOLTAGES",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M8203/MANUALS/2015 - M8203 - Manual (2).docx",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "± 20 VOLT DC SUPPLY BUS VOLTAGES",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M8203/MANUALS/2015 - M8203 - Manual (2).docx",
+   "page": 1
+  },
+  {
+   "pin": "P",
+   "signal": "± 20 VOLT DC SUPPLY BUS VOLTAGES",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M8203/MANUALS/2015 - M8203 - Manual (2).docx",
+   "page": 1
+  },
+  {
+   "pin": "S",
+   "signal": "± 20 VOLT DC SUPPLY BUS VOLTAGES",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M8203/MANUALS/2015 - M8203 - Manual (2).docx",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/MONITORING/M8203/MANUALS/2015 - M8203 - Manual (2).docx"
+ ]
+}

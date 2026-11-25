@@ -1,5 +1,5 @@
 # 19xx - M8203 - DOC - 8212 brochure a.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -58,7 +58,7 @@ iiiiiiiii)
 
 ```json
 {
- "file": "Modules/MONITORING/M8203/19xx - M8203 - DOC - 8212 brochure a.jpg",
+ "file": "Modules/MONITORING/M8203/MANUALS/19xx - M8203 - DOC - 8212 brochure a.jpg",
  "sha256": "cc8fe2024d706e2637c30d7185270ba769a70108747c715b707e7ebe0f597872",
  "kind": "doc",
  "models": [

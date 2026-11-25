@@ -1,5 +1,5 @@
 # 19xx - M8203 - DOC - 8203 brochure a.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -59,7 +59,7 @@ WBS WARD-BECK SYSTEMS
 
 ```json
 {
- "file": "Modules/MONITORING/M8203/19xx - M8203 - DOC - 8203 brochure a.jpg",
+ "file": "Modules/MONITORING/M8203/MANUALS/19xx - M8203 - DOC - 8203 brochure a.jpg",
  "sha256": "74e3e7ea63af1ff1d99cbc34fbe85c841393181a0676ed7d3a54dc1af7e59e16",
  "kind": "doc",
  "models": [

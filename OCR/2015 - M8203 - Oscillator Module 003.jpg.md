@@ -1,5 +1,5 @@
 # 2015 - M8203 - Oscillator Module 003.jpg
-Wiki page: [M8203](../../../PAGES/M8203.md)
+Wiki page: [M8203](../../../../PAGES/M8203.md)
 
 
 - **Year:** 2015 (module estimate (month))
@@ -29,7 +29,7 @@ P16 '
 
 ```json
 {
- "file": "Modules/MONITORING/M8203/2015 - M8203 - Oscillator Module 003.jpg",
+ "file": "Modules/MONITORING/M8203/PHOTOS/2015 - M8203 - Oscillator Module 003.jpg",
  "sha256": "676c8d96d5d1fee59a99e6261855a9bfc81a3a9de2cd6214e3c7a559425311b5",
  "kind": "module",
  "models": [

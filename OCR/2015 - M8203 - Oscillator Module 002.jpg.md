@@ -1,5 +1,5 @@
 # 2015 - M8203 - Oscillator Module 002.jpg
-Wiki page: [M8203](../../../PAGES/M8203.md)
+Wiki page: [M8203](../../../../PAGES/M8203.md)
 
 
 - **Year:** 2015 (module estimate (month))
@@ -46,7 +46,7 @@ Ward-Beck Systems Ltd.
 
 ```json
 {
- "file": "Modules/MONITORING/M8203/2015 - M8203 - Oscillator Module 002.jpg",
+ "file": "Modules/MONITORING/M8203/PHOTOS/2015 - M8203 - Oscillator Module 002.jpg",
  "sha256": "6a329751a93c7957430e04238dc074c7b9e67496261f951160a3af647f088665",
  "kind": "module",
  "models": [
