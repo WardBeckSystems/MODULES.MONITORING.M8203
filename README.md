@@ -1,11 +1,11 @@
-# M8203 · Monitoring
+# M8203 Oscillator Module · Monitoring
 
 Ward-Beck Systems M8203, 1995|28. Wiki page: [M8203 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8203.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 8 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
