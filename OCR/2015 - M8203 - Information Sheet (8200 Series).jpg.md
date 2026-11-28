@@ -1,5 +1,5 @@
 # 2015 - M8203 - Information Sheet (8200 Series).jpg
-Wiki page: [M8203](../../../../PAGES/M8203.md)
+Wiki page: [M8203](../)
 
 
 - **Year:** 2015 (module estimate (month))

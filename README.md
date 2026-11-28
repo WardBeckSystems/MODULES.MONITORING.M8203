@@ -1,6 +1,6 @@
 # M8203 Oscillator Module · Monitoring
 
-Ward-Beck Systems M8203, 1995|28. Wiki page: [M8203 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8203.html)
+Ward-Beck Systems M8203, 1995|28. Wiki page: [M8203 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M8203-Oscillator-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

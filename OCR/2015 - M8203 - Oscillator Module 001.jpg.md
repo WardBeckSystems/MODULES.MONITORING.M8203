@@ -1,5 +1,5 @@
 # 2015 - M8203 - Oscillator Module 001.jpg
-Wiki page: [M8203](../../../../PAGES/M8203.md)
+Wiki page: [M8203](../)
 
 
 - **Year:** 2015 (module estimate (month))
